@@ -3,11 +3,11 @@
 
 A repository for Computer Architecture Lab resources and reference materials.
 
-## 📌 Overview
+## Overview
 
 CA_LAB contains image-based lab resources and reference materials. This repository can be extended with experiment descriptions, source code, outputs, and practical documentation.
 
-## 🏗️ Architecture
+## Architecture
 
 ```mermaid
 flowchart TD
@@ -19,7 +19,7 @@ flowchart TD
     E --> G[Execute and Verify Experiments]
 ```
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 CA_LAB/
@@ -32,31 +32,31 @@ CA_LAB/
 └── img6.png
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Anshumaankhare2403/CA_LAB.git
 ```
 
-### 2. Open the project
+### 2. Open the Project
 
 ```bash
 cd CA_LAB
 ```
 
-### 3. View the resources
+### 3. View the Resources
 
 Open the image files in your preferred image viewer or IDE.
 
-## 🛠️ Technologies and Tools
+## Technologies and Tools
 
 - Git — Version control
 - GitHub — Repository hosting
 - Markdown — Documentation
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Add individual lab experiment descriptions.
 - Include objectives, algorithms, and procedures.
@@ -64,7 +64,7 @@ Open the image files in your preferred image viewer or IDE.
 - Document experiment results and observations.
 - Organize resources into separate folders by experiment.
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository.
 2. Create a new branch.
@@ -72,12 +72,12 @@ Open the image files in your preferred image viewer or IDE.
 4. Commit and push your changes.
 5. Open a pull request.
 
-## 👨‍💻 Author
+## Author
 
 **Anshumaan Khare**
 
 GitHub: [@Anshumaankhare2403](https://github.com/Anshumaankhare2403)
 
-## 📄 License
+## License
 
 No license has been specified yet. Add a license file if you intend to distribute this repository under an open-source license.
