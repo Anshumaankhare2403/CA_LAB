@@ -1,0 +1,25 @@
+{
+    "name": "LS_Databricks",
+    "properties": {
+        "type": "AzureDatabricks",
+        "description": "Linked service connecting Azure Data Factory to Azure Databricks workspace calab-databricks-141.",
+        "typeProperties": {
+            "domain": "https://adb-7405609713574305.5.azuredatabricks.net",
+            "authentication": "MSI",
+            "workspaceResourceId": "/subscriptions/cb9a06b3-8979-4a6c-a8fd-f924e54cd606/resourceGroups/25MCAR0141/providers/Microsoft.Databricks/workspaces/calab-databricks-141",
+            "newClusterNodeType": "Standard_DS3_v2",
+            "newClusterNumOfWorker": "1",
+            "newClusterSparkEnvVars": {
+                "PYSPARK_PYTHON": "/databricks/python3/bin/python3"
+            },
+            "newClusterVersion": "14.3.x-scala2.12",
+            "newClusterInitScripts": [],
+            "clusterOption": "Fixed",
+            "newClusterDriverNodeType": "Standard_DS3_v2"
+        },
+        "annotations": [
+            "Experiment06",
+            "CloudAnalytics"
+        ]
+    }
+}
